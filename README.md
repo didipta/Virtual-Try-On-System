@@ -12,7 +12,7 @@ This project was developed as part of a Computer Vision assignment to demonstrat
 
 [![Open In Colab]]
 
-https://drive.google.com/file/d/12dC57WSV5pMHaJEzL27yI2uMIHCwjtT1/view?usp=sharing
+https://colab.research.google.com/drive/12dC57WSV5pMHaJEzL27yI2uMIHCwjtT1#scrollTo=7E-xwo5Utxeu
 
 ---
 
