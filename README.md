@@ -10,8 +10,9 @@ This project was developed as part of a Computer Vision assignment to demonstrat
 
 > **Open in Google Colab**
 
-[![Open In Colab](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnP6Kj0hajFHp3aXMCx_IukLgUAkBc3VB8U34tmII1bQ&s)]
+[![Open In Colab]]
 
+https://drive.google.com/file/d/12dC57WSV5pMHaJEzL27yI2uMIHCwjtT1/view?usp=sharing
 
 ---
 
